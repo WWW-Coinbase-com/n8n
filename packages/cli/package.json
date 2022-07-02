@@ -112,7 +112,7 @@
     "cookie-parser": "^1.4.6",
     "crypto-js": "^4.1.1",
     "csrf": "^3.1.0",
-    "dotenv": "^8.0.0",
+    "dotenv": "^16.0.1",
     "express": "^4.16.4",
     "fast-glob": "^3.2.5",
     "flatted": "^3.2.4",
